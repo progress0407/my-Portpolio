@@ -43,7 +43,7 @@
 
 # :pushpin: Toy Project
 
-### 땅콩 박스 v2 + @Toransactional
+### [땅콩 박스 v2 + @Toransactional](https://github.com/progress0407/jwp-dashboard-mvc/blob/main/docs/PEANUT.md)
 
 - `땅콩 박스 v2`
   - 미션을 진행하면서 기능을 확장한 컨테이너
@@ -56,7 +56,7 @@
   - 스프링의 선언적 트랜잭셔널을 아이디어를 모방한 것
   - 부가기능 모듈을 동적으로 삽입
 
-### 땅콩 박스 v1
+### [땅콩 박스 v1](https://github.com/progress0407/atdd-subway-map/blob/di_alone/docs/PEANUT.md)
 
 - 스프링의 **Bean Container**를 모방한 컨테이너
 - 수동, 어노테이션 방식 DI 가능(**recursively**)
