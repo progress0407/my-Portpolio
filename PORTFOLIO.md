@@ -1,6 +1,6 @@
-# portfolio
+# Portfolio
 
-# Intro
+# :pushpin: Intro
 
 <img src="https://user-images.githubusercontent.com/66164361/200205024-535ac288-022e-4360-9d74-e645968d8e76.png" height="300">
 
@@ -8,7 +8,7 @@
 
 안녕하세요. 설계에 대해 생각하고 고민하는 것을 좋아하는 개발자입니다.
 
-# Profile
+# :pushpin: Profile
 
 - Email:  [progress0407@gmail.com](https://progress0407@gmail.com)
 - Git-Hub:  [github.com/progress0407](https://github.com/progress0407)
@@ -17,12 +17,12 @@
   - [progress0407.tistory.com](https://progress0407.tistory.com/)
   - [velog.io/@progress0407](https://velog.io/@progress0407)
 
-# Team Project
+# :pushpin: Team Project
 
 ![image](https://user-images.githubusercontent.com/66164361/200206399-0ac811d7-2650-4a09-ade3-2be240c47352.png)
 
 
-## :pushpin: [체크메이트]
+## [체크메이트]
 
 - [깃허브](https://github.com/woowacourse-teams/2022-moragora)
 - [데모데이](https://sites.google.com/woowahan.com/woowacourse-demo-4th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%B2%B4%ED%81%AC%EB%A9%94%EC%9D%B4%ED%8A%B8?authuser=0)
