@@ -22,7 +22,7 @@
 ![image](https://user-images.githubusercontent.com/66164361/200206399-0ac811d7-2650-4a09-ade3-2be240c47352.png)
 
 
-## [체크메이트]
+## :pushpin: [체크메이트]
 
 - [깃허브](https://github.com/woowacourse-teams/2022-moragora)
 - [데모데이](https://sites.google.com/woowahan.com/woowacourse-demo-4th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%B2%B4%ED%81%AC%EB%A9%94%EC%9D%B4%ED%8A%B8?authuser=0)
@@ -37,6 +37,6 @@
 - 1 + N 응답속도 개선
 - 트랜잭션 스크립트에서 도메인에 비즈니스를 응집
 
-### :pushpin: Architecture
+### Architecture
 
 ![image](https://user-images.githubusercontent.com/66164361/200206297-072d5b03-f5c5-4b4c-8e36-2a473a21848d.png)
