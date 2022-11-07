@@ -39,8 +39,46 @@
 
 ### Architecture
 
-![image](https://user-images.githubusercontent.com/66164361/200206297-072d5b03-f5c5-4b4c-8e36-2a473a21848d.png)
-
+<img src="https://user-images.githubusercontent.com/66164361/200206297-072d5b03-f5c5-4b4c-8e36-2a473a21848d.png" height="500">
 
 # :pushpin: Toy Project
 
+### 땅콩 박스 v2 + @Toransactional
+
+- `땅콩 박스 v2`
+  - 미션을 진행하면서 기능을 확장한 컨테이너
+  - 의존관계의 **깊이에 관계 없이** 적용가능 (Recursively)
+  - 인터페이스, 구체클래스 DI 가능
+  - 생성자, 필드 DI 가능
+  - 수동, 자동 등록 가능
+  - 생성 방식을 복합적으로 사용 가능
+- `@Toransactional`
+  - 스프링의 선언적 트랜잭셔널을 아이디어를 모방한 것
+  - 부가기능 모듈을 동적으로 삽입
+
+### 땅콩 박스 v1
+
+- 스프링의 **Bean Container**를 모방한 컨테이너
+- 수동, 어노테이션 방식 DI 가능(**recursively**)
+- **빈 스코프** (prototype, request …) 설정 가능
+
+
+# :pushpin: Presentation
+
+### [필즈, 판다의 OOP & FP](https://youtu.be/4rl6uMqVX2I)
+
+우아한테크코스 테코톡에서 SOLID 의 정의와 활용법을 시각적으로 다루었습니다.
+
+# :pushpin: History
+
+### 우아한테크코스
+- 2022.02 ~ 2022.11
+
+### LIG System
+- 2020 ~ 2022
+- 국방사업팀
+- SM 유지보수
+
+### 연암공과대학교
+- 2018 ~ 2020
+- 전자전기계열
