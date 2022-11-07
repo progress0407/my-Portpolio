@@ -37,8 +37,6 @@
 - 1 + N 응답속도 개선
 - 트랜잭션 스크립트에서 도메인에 비즈니스를 응집
 
-### Architecture
-
- :pushpin: 
+### :pushpin: Architecture
 
 ![image](https://user-images.githubusercontent.com/66164361/200206297-072d5b03-f5c5-4b4c-8e36-2a473a21848d.png)
